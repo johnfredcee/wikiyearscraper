@@ -1,0 +1,1 @@
+This is a simple scraping script that will scrape a year page (eg https://en.wikipedia.org/wiki/1523) and dump a json file containing a javascript object of events indexed by dates.
